@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 30 13:47:15 CAT 2024","Tue Jul 30 13:47:22 CAT 2024","6765","","TS_Servicenow_Navigation_JUnit","","TS_Servicenow_Navigation_JUnit","tc_bag_navigation_menu_home","TC - Bag - Navigation - Menu - Home repetition 1 of 1",""
